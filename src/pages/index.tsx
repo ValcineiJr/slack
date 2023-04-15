@@ -26,12 +26,12 @@ import {
   FcAdvertising,
 } from 'react-icons/fc';
 
-import Brand from '@/assets/img/Brand.png';
+import Brand from '@/assets/img/brand.png';
 import RightSide from '@/assets/img/right.png';
 
 import Arc from '@/assets/img/arc.png';
-import Line from '@/assets/img/Line.png';
-import Line2 from '@/assets/img/Line2.png';
+import Line from '@/assets/img/line.png';
+import Line2 from '@/assets/img/line2.png';
 import Star from '@/assets/img/star.png';
 import Cross from '@/assets/img/cross.png';
 import bg from '@/assets/img/bg.png';
@@ -48,7 +48,7 @@ import Article2 from '@/assets/img/article2.png';
 import Article3 from '@/assets/img/article3.png';
 import Illustration from '@/assets/img/illustration.png';
 
-import Logo from '@/assets/img/LOGO.png';
+import Logo from '@/assets/img/logo.png';
 
 import YoutubeIcon from '@/assets/img/youtube.svg';
 import LinkedInIcon from '@/assets/img/linkedin.svg';
